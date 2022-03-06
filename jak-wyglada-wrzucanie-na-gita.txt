@@ -1,0 +1,2 @@
+
+Po dodaniu nowych plików, mają one status Unstaged changes. Chcąc przygotować commita, dodajemy poprzez git add pliki do obszaru Staged (czasem nazywany też index). Commitując nasze zmiany, pliki są pakowane do jednego commita i znikają ze Staged. Aby wysłać je na remote serwer, musimy użyć git push.
